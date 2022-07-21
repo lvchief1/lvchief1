@@ -1,4 +1,4 @@
-### Hi there 👋我是吕cf
+# Hi there 👋我是吕cf
 
 <!---->
 **lvchief1/lvchief1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...公众号[变电小窝]
+- ⚡ Fun fact: ...
+
+# 公众号[变电小窝]
 
